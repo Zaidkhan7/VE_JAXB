@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<studentdata>
+
+	<student>
+		<firstname>Zaid</firstname>
+		<lastname>Khan</lastname>
+		<rollno>1</rollno>
+		<marks>100</marks>
+	</student>
+
+	<student>
+		<firstname>Abhishek</firstname>
+		<lastname>Pandey</lastname>
+		<rollno>2</rollno>
+		<marks>95</marks>
+
+	</student>
+
+	<student>
+		<firstname>Shivam</firstname>
+		<lastname>Poniya</lastname>
+		<rollno>3</rollno>
+		<marks>80</marks>
+	</student>
+
+	<student>
+		<firstname>Monu</firstname>
+		<lastname>Tonger</lastname>
+		<rollno>4</rollno>
+		<marks>89</marks>
+	</student>
+
+	<student>
+		<firstname>Rishi</firstname>
+		<lastname>Mishra</lastname>
+		<rollno>5</rollno>
+		<marks>87</marks>
+	</student>
+
+
+</studentdata>
+
